@@ -17,3 +17,4 @@ Con Python 3:
 ```bash
 python -m http.server 8000
 # abre http://localhost:8000
+.
