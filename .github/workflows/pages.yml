@@ -1,0 +1,2 @@
+npx http-server -p 8000
+# abre http://localhost:8000
